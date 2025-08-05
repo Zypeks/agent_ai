@@ -58,6 +58,3 @@ jupyter notebook
 
 Notatniki zawierają wizualizacje i statystyki, które pokazują wyniki agentów PPO i DQN w symulowanych scenariuszach handlu akcjami. Obejmują one analizę zysków/strat, sumę nagród oraz działania handlowe (punkty kupna/sprzedaży).
 
-## Licencja
-
-Ten projekt jest licencjonowany na licencji MIT.
